@@ -1,6 +1,6 @@
 # for security reasons put variable in environment
 
-# export TF_VAR_aws_access_key="123qwert"
+# export TF_VAR_aws_access_key="123qwerty"
 variable "aws_access_key" {
   type = string
 }
